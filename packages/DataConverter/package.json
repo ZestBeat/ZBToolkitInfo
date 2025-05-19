@@ -1,7 +1,7 @@
 {
   "name": "com.zestbeat.toolkit.dataconverter",
   "version": "1.1.0",
-  "displayName": "ZB Toolkit DataConverter",
+  "displayName": "DataConverter",
   "description": "This tool allows you to import data from Google Sheets and convert it into game data.",
   "unity": "2021.3",
   "dependencies":{
