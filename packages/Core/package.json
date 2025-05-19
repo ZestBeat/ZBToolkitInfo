@@ -1,0 +1,20 @@
+{
+  "name": "com.zestbeat.toolkit",
+  "version": "1.0.0",
+  "displayName": "ZB Toolkit Core",
+  "description": "Core utilities for Zestbeat Unity projects.",
+  "unity": "2021.3",
+  "dependencies":{
+	"com.unity.nuget.newtonsoft-json": "3.2.1",
+	"com.unity.editorcoroutines": "1.0.0"
+  },
+  "author": {
+    "name": "Zestbeat",
+	"email": "zestbeat@zestbeat.com",
+    "url": "https://github.com/zestbeat"
+  },
+  "license": "ZestBeat",
+  "keywords": ["toolkit", "zb", "zestbeat", "core"],
+  "samples": [],
+  "dependencies": {}
+}
