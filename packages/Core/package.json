@@ -15,6 +15,16 @@
   },
   "license": "ZestBeat",
   "keywords": ["toolkit", "zb", "zestbeat", "core"],
-  "samples": [],
-  "dependencies": {}
+  "samples": [
+	  {
+		"displayName": "Core Sample",
+		"description": "Base setting asset that can be copied to Assets.",
+		"path": "Samples~/CoreSample"
+	  }
+	],
+  "dependencies": {
+	  "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.10",
+	  "com.unity.addressables": "2.4.6"
+  }
+  
 }
